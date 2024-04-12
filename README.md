@@ -36,5 +36,6 @@ Para explorar os recursos deste repositório, você pode:
 
 Contribuições são bem-vindas! Se você deseja contribuir com novos materiais, correções ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Todas as contribuições serão revisadas e incorporadas ao repositório, ajudando a enriquecer o conteúdo disponível para a comunidade.
 
-# UNISAL-computacao-grafica
+# Como executar pelo terminal
+
 gcc exemplo1.c -lopengl32 -lfreeglut -lglut32
