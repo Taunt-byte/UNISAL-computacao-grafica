@@ -1,3 +1,5 @@
+package pdi;
+
 import java.io.File;
 import java.io.IOException;
 import java.awt.image.BufferedImage;
@@ -41,3 +43,4 @@ public class Aula5 {
         ImageIO.write(image, "PNG", output);
     }
 }
+
